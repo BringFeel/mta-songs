@@ -1347,14 +1347,14 @@ input, select, textarea {
 	  border-image: 
 		linear-gradient(
 		  to bottom, 
-		  #ffcc00, 
+		  #C65E0D, 
 		  #2c1717
 		) 10 100%;
 	}
 
 			#header nav ul li {
 				padding-left: 0;
-				border-left: solid 1px #ffffff;
+				border-left: solid 1px #C65E0D;
 			}
 
 				#header nav ul li:first-child {
